@@ -3,12 +3,10 @@
 **Formação**: Ciências da Computação @Unimetrocamp Wyden.<br>
 **Workflow**: Linux e VSCode.<br>
 
-<div align="center">
-  <a href="https://github.com/gabrielportes">
-    <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=gabrielportes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielportes&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielportes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered&hide=issues&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielportes&langs_count=7&theme=dracula&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gabrielportes&theme=dracula&exclude_days=Sat,Sun&card_width=1005)]([https://github.com/gabrielportes](https://git.io/streak-stats))
+
 <br> 
 <div align="center"> 
   <a href="https://www.instagram.com/gabrielogrego/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
