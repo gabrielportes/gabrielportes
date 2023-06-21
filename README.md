@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=gabrielportes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered&hide=issues"/>
-    <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielportes&langs_count=7&theme=dracula"/>
+    <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=gabrielportes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered&hide=issues"/>
+    <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielportes&langs_count=7&theme=dracula"/>
   </a>
 </div>
 <div align="center">
@@ -15,17 +15,9 @@
   </a>
 </div>
 
-<div align="center">
-  
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielportes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered&hide=issues&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielportes&langs_count=7&theme=dracula&card_width=350)](https://github.com/anuraghazra/github-readme-stats) 
-
-</div>
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=gabrielportes&theme=dracula&exclude_days=Sat,Sun&card_width=855)]([https://github.com/gabrielportes](https://git.io/streak-stats))
-
-</div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielportes&langs_count=7&theme=dracula&card_width=300)](https://github.com/anuraghazra/github-readme-stats) 
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=gabrielportes&theme=dracula&exclude_days=Sat,Sun&card_width=805)]([https://github.com/gabrielportes](https://git.io/streak-stats))
 
 <br> 
 <div align="center"> 
